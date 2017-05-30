@@ -16,6 +16,8 @@ https://www.npmjs.com/package/chromedriver
 To install or update Node.JS
 https://docs.npmjs.com/getting-started/installing-node
 
+#Run app
+Execute node {fileName.js}
 
 
 
